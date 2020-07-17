@@ -1,31 +1,3 @@
 {
-  "Definitions": {
-    "sl-empty": {
-      "ID": "Fiw2QQ==",
-      "MapID": "sl-empty",
-      "Name": "test2",
-      "Tag": [
-        "dev",
-        "sample"
-      ]
-    },
-    "testing": {
-      "ID": "testing",
-      "MapID": "sl-empty",
-      "Name": "Testing Map",
-      "Tag": [
-        "dev",
-        "sample"
-      ]
-    },
-    "hellose": {
-      "ID": "hellose",
-      "MapID": "sl-empty",
-      "Name": "helloserver",
-      "Tag": [
-        "dev",
-        "sample"
-      ]
-    }
-  }
+  "Definitions": {}
 }
