@@ -1,0 +1,27 @@
+{
+  "ID": "hariwij",
+  "Name": "Hariwij",
+  "Description": "Null",
+  "Tag": [
+    "OL"
+  ],
+  "MapID": "sl-rivers",
+  "Markers": {
+    "574cce3d": {
+      "ID": "574cce3d",
+      "Name": "Raja",
+      "X": "477",
+      "Y": "823",
+      "R": "90"
+    }
+  },
+  "Rivers": {
+    "12": {
+      "ID": "12",
+      "Name": "Riv1",
+      "Rot": "349",
+      "X": "758",
+      "Y": "1009"
+    }
+  }
+}
