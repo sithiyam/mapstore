@@ -8,6 +8,15 @@
         "dev",
         "sample"
       ]
+    },
+    "testing": {
+      "ID": "testing",
+      "MapID": "sl-empty",
+      "Name": "Testing Map",
+      "Tag": [
+        "dev",
+        "sample"
+      ]
     }
   }
 }
