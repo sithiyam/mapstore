@@ -1,11 +1,12 @@
 {
   "Definitions": {
     "sl-empty": {
-      "ID": "server",
+      "ID": "testing",
       "MapID": "sl-empty",
-      "Name": "Server Tester",
+      "Name": "Testing Map",
       "Tag": [
-        "dev"
+        "dev",
+        "sample"
       ]
     }
   }
