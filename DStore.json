@@ -1,5 +1,5 @@
 {
-  "Update": 1008,
+  "Update": 1009,
   "Definitions": {
     "sample": {
       "ID": "sample",
@@ -17,14 +17,6 @@
       "Tag": [
         "SL",
         "SAMPLE"
-      ]
-    },
-    "hariwij": {
-      "ID": "hariwij",
-      "MapID": "sl-rivers",
-      "Name": "Hariwij",
-      "Tag": [
-        "OL"
       ]
     },
     "98ac84a3": {
