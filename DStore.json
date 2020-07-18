@@ -1,5 +1,5 @@
 {
-  "Update": 1015,
+  "Update": 1016,
   "Definitions": {
     "sample": {
       "ID": "sample",
@@ -34,6 +34,17 @@
         "A/L",
         "",
         "(SL)"
+      ]
+    },
+    "734cc4c6": {
+      "ID": "734cc4c6",
+      "MapID": "sl-rivers",
+      "Name": "ශ්‍රී ලංකාවේ ප්‍රධාන වැව් හා ජලාශ ",
+      "Tag": [
+        "O/L",
+        ",",
+        "",
+        "A/L"
       ]
     }
   }
