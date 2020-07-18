@@ -1,0 +1,41 @@
+{
+  "ID": "hariwij",
+  "Name": "Hariwij",
+  "Description": "",
+  "Tag": [
+    ""
+  ],
+  "MapID": "sl-rivers",
+  "Markers": {
+    "trincom": {
+      "ID": "trincom",
+      "Name": "Trincomalee",
+      "X": "638",
+      "Y": "531",
+      "R": "40"
+    },
+    "jaffa": {
+      "ID": "jaffa",
+      "Name": "Jaffa",
+      "X": "207",
+      "Y": "87",
+      "R": "30"
+    },
+    "colombo": {
+      "ID": "colombo",
+      "Name": "Colombo",
+      "X": "192",
+      "Y": "1094",
+      "R": "30"
+    }
+  },
+  "Rivers": {
+    "6": {
+      "ID": "6",
+      "Name": "Mahawali",
+      "Rot": "270",
+      "X": "568",
+      "Y": "987"
+    }
+  }
+}
