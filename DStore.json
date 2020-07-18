@@ -1,5 +1,5 @@
 {
-  "Update": 1009,
+  "Update": 1010,
   "Definitions": {
     "sample": {
       "ID": "sample",
@@ -8,15 +8,6 @@
       "Tag": [
         "SAMPLE",
         "SL"
-      ]
-    },
-    "77ab393e": {
-      "ID": "77ab393e",
-      "MapID": "sl-rivers",
-      "Name": "ශ්‍රී ලංකාවේ ප්‍රධාන ස්ථාන",
-      "Tag": [
-        "SL",
-        "SAMPLE"
       ]
     },
     "98ac84a3": {
