@@ -1,5 +1,5 @@
 {
-  "Update": 1016,
+  "Update": 1017,
   "Definitions": {
     "sample": {
       "ID": "sample",
@@ -45,6 +45,18 @@
         ",",
         "",
         "A/L"
+      ]
+    },
+    "481ddffb": {
+      "ID": "481ddffb",
+      "MapID": "sl-rivers",
+      "Name": "පැරණි රාජධානි අගනගර ",
+      "Tag": [
+        "O/L",
+        ",",
+        "A/L",
+        "",
+        "(SL)"
       ]
     }
   }
