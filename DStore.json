@@ -1,5 +1,5 @@
 {
-  "Update": 1023,
+  "Update": 1024,
   "Definitions": {
     "sample": {
       "ID": "sample",
@@ -146,6 +146,14 @@
       "ID": "28dd6002",
       "MapID": "europe",
       "Name": "යුරෝපයේ ප්‍රමුඛ රටවල් ",
+      "Tag": [
+        "O/L"
+      ]
+    },
+    "d04cf6ff": {
+      "ID": "d04cf6ff",
+      "MapID": "world",
+      "Name": "ආසියාවේ වැදගත් ඓතිහාසික ස්ථාන ",
       "Tag": [
         "O/L"
       ]
