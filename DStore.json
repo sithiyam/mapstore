@@ -1,5 +1,5 @@
 {
-  "Update": 1022,
+  "Update": 1023,
   "Definitions": {
     "sample": {
       "ID": "sample",
@@ -140,6 +140,14 @@
         "A/L",
         "",
         "(SL)"
+      ]
+    },
+    "28dd6002": {
+      "ID": "28dd6002",
+      "MapID": "europe",
+      "Name": "යුරෝපයේ ප්‍රමුඛ රටවල් ",
+      "Tag": [
+        "O/L"
       ]
     }
   }
