@@ -1,5 +1,5 @@
 {
-  "Update": 1026,
+  "Update": 1027,
   "Definitions": {
     "sample": {
       "ID": "sample",
@@ -162,6 +162,16 @@
       "Tag": [
         "O/L",
         ""
+      ]
+    },
+    "affe1b8e": {
+      "ID": "affe1b8e",
+      "MapID": "sl-rivers",
+      "Name": "ශ්‍රී ලංකාවේ පැරණි වෙළෙඳ නගර ",
+      "Tag": [
+        "O/L",
+        "",
+        "A/L"
       ]
     }
   }
