@@ -1,12 +1,13 @@
 {
-  "Update": 1029,
+  "Update": 1030,
   "Definitions": {
     "sample": {
       "ID": "sample",
       "MapID": "sl-rivers",
       "Name": "Sample Map",
       "Tag": [
-        "SAMPLE"
+        "SAMPLE",
+        "SL"
       ]
     },
     "98ac84a3": {
