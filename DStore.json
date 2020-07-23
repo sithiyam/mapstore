@@ -1,5 +1,5 @@
 {
-  "Update": 1031,
+  "Update": 1032,
   "Definitions": {
     "sample": {
       "ID": "sample",
@@ -193,14 +193,6 @@
         "O/L",
         "",
         "A/L"
-      ]
-    },
-    "blank": {
-      "ID": "blank",
-      "MapID": "sl-empty",
-      "Name": "blank",
-      "Tag": [
-        ""
       ]
     }
   }
