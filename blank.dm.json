@@ -1,0 +1,19 @@
+{
+  "ID": "blank",
+  "Name": "blank",
+  "Description": "",
+  "Tag": [
+    ""
+  ],
+  "MapID": "sl-empty",
+  "Markers": {
+    "knowher": {
+      "ID": "knowher",
+      "Name": "knowhere",
+      "X": "379",
+      "Y": "672",
+      "R": "50"
+    }
+  },
+  "Rivers": {}
+}
