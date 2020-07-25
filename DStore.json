@@ -1,5 +1,5 @@
 {
-  "Update": 1033,
+  "Update": 1034,
   "Definitions": {
     "sample": {
       "ID": "sample",
@@ -202,6 +202,14 @@
       "Tag": [
         "A/L",
         ""
+      ]
+    },
+    "cc26d945": {
+      "ID": "cc26d945",
+      "MapID": "europe",
+      "Name": "යුරෝපයේ මුහුදු ",
+      "Tag": [
+        "O/L"
       ]
     }
   }
