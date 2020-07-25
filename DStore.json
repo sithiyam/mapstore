@@ -1,5 +1,5 @@
 {
-  "Update": 1034,
+  "Update": 1035,
   "Definitions": {
     "sample": {
       "ID": "sample",
@@ -208,6 +208,14 @@
       "ID": "cc26d945",
       "MapID": "europe",
       "Name": "යුරෝපයේ මුහුදු ",
+      "Tag": [
+        "O/L"
+      ]
+    },
+    "339ba5cc": {
+      "ID": "339ba5cc",
+      "MapID": "world",
+      "Name": "ලෝකයේ මුහුදු , බොකු හා සමුද්‍ර සන්ධි ",
       "Tag": [
         "O/L"
       ]
