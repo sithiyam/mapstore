@@ -1,5 +1,5 @@
 {
-  "Update": 1036,
+  "Update": 1037,
   "Definitions": {
     "sample": {
       "ID": "sample",
@@ -224,6 +224,14 @@
       "ID": "7c3c46e0",
       "MapID": "sl-rivers",
       "Name": "ශ්‍රී ලංකාවේ ඓතිහාසික ස්ථාන.",
+      "Tag": [
+        "A/L"
+      ]
+    },
+    "b7161bd5": {
+      "ID": "b7161bd5",
+      "MapID": "sl-rivers",
+      "Name": "ආර්ය ජනාවාස ",
       "Tag": [
         "A/L"
       ]
