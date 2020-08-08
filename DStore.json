@@ -1,5 +1,5 @@
 {
-  "Update": 1046,
+  "Update": 1047,
   "Definitions": {
     "sample": {
       "ID": "sample",
@@ -164,7 +164,6 @@
       "Name": "ශ්‍රී ලංකාවේ පැරණි වෙළෙඳ නගර ",
       "Tag": [
         "O/L",
-        "",
         "A/L"
       ]
     },
