@@ -63,11 +63,11 @@
       "Y": "932",
       "R": "30"
     },
-    "Surr1IfHZBhoBzAtRumhSbIi0SY=#": {
-      "ID": "Surr1IfHZBhoBzAtRumhSbIi0SY=#",
+    "Surr1IfHZBhoBzAtRumhSbIi0SY=": {
+      "ID": "Surr1IfHZBhoBzAtRumhSbIi0SY=",
       "Name": "රතු මුහුද ",
-      "X": "720",
-      "Y": "1030",
+      "X": "700",
+      "Y": "1010",
       "R": "30"
     },
     "#Surr1IfHZBhoBzAtRumhSbIi0SY=#0": {
@@ -131,6 +131,13 @@
       "Name": "wjDqFUJgjGteWXburk0z28GrPic=#",
       "X": "603",
       "Y": "826",
+      "R": "30"
+    },
+    "#Surr1IfHZBhoBzAtRumhSbIi0SY=#1": {
+      "ID": "#Surr1IfHZBhoBzAtRumhSbIi0SY=#1",
+      "Name": "Surr1IfHZBhoBzAtRumhSbIi0SY=#",
+      "X": "731",
+      "Y": "1062",
       "R": "30"
     }
   },
