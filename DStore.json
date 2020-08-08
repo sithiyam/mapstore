@@ -1,5 +1,5 @@
 {
-  "Update": 1050,
+  "Update": 1051,
   "Definitions": {
     "sample": {
       "ID": "sample",
@@ -154,8 +154,7 @@
       "MapID": "world",
       "Name": "ලෝකයේ  වැදගත් ඓතිහාසික ස්ථාන - දෙවැනි කාණ්ඩය ",
       "Tag": [
-        "O/L",
-        ""
+        "O/L"
       ]
     },
     "affe1b8e": {
