@@ -1,5 +1,5 @@
 {
-  "Update": 1049,
+  "Update": 1050,
   "Definitions": {
     "sample": {
       "ID": "sample",
@@ -190,8 +190,7 @@
       "MapID": "sl-rivers",
       "Name": "ශ්‍රී ලංකාවේ ඓතිහාසික ස්ථාන - පළමු කාණ්ඩය",
       "Tag": [
-        "A/L",
-        ""
+        "A/L"
       ]
     },
     "cc26d945": {
